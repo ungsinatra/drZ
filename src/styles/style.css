@@ -1,0 +1,57 @@
+body{
+    background-color: #000;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.screen{
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+}
+.screen__main_massege{
+    margin: 0;
+}
+.screen__start__massege{
+    text-align: center;
+}
+.main__marg{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.screen__input{
+    background: none;
+    max-width: 90%;
+    width: 100%;
+    outline: none;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 18px;
+    border: none;
+
+}
+
+.end{
+    margin-bottom: 150px;
+}
+.quation__mark{
+    text-align: center;
+    margin-top: 2px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 0;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.hidden{
+    display: none;
+}
+.template{
+    max-width: 100%;
+    width: 100%;
+    list-style: none;
+}
